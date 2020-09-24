@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+<playground version='6.0' target-platform='ios'>
     <pages>
         <page name='arrangeCoins-441'/>
         <page name='fizzBuzz-412'/>
+        <page name='longestPalindrome-409'/>
+        <page name='thirdMax-414'/>
+        <page name='MissNumber'/>
     </pages>
 </playground>
